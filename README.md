@@ -2,7 +2,7 @@
 The second variant of my meme webpage. 
 
 Update Info-
-Added a sidebar for bwtter navigation.
+Added a sidebar for better navigation.
 Fixed some bugs
 Made changed to some of the css
 Made changed to the html
